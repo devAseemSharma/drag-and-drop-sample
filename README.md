@@ -1,5 +1,10 @@
+
 # drag-and-drop-sample
 A simple implementation of drag and drop cell animation from grid RecyclerView to horizontal RecyclerView, with backward compatibility.
+
+Minimum SDK used in the sample is:
+
+> minSdk 16
 
 Refer to the GIF to get an idea how this works:
 
